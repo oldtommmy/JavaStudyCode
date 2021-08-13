@@ -1,2 +1,3 @@
 # JavaStudyCode
-for java study
+Java
+Record
